@@ -1,4 +1,4 @@
-// CSC 251 Lab3 by Dylan Duhamel - duhadm19@wfu.edu - 10/11/22
+// Dylan Duhamel - duhadm19@wfu.edu - 10/11/22
 #include <stdlib.h>
 #include <signal.h>
 #include <stdio.h>
